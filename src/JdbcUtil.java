@@ -22,6 +22,7 @@ public class JdbcUtil {
         } catch (SQLException e) {
             e.printStackTrace();
             System.out.println("aaaa");
+            System.out.println("ㅋㅋㅋㅋㅋ");
         }
         return conn;
     }
